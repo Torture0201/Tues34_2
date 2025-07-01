@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kohacu.com_samune_003545_0: -1666818061093519614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

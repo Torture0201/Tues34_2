@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      underwater1-1024x576_0: 5811263929079897440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
